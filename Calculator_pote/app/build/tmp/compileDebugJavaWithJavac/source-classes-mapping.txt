@@ -1,0 +1,7 @@
+com/example/kalculator/SplashActivity.java
+ com.example.kalculator.SplashActivity
+ com.example.kalculator.SplashActivity$1
+com/example/kalculator/BuildConfig.java
+ com.example.kalculator.BuildConfig
+com/example/kalculator/MainActivity.java
+ com.example.kalculator.MainActivity

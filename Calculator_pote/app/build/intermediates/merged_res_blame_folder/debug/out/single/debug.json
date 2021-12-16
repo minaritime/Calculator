@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_calculator.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-anydpi-v26\\calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_calculator_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\calculator_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\drawable_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\drawable\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_calculator_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\calculator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_calculator_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\calculator_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_calculator_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\calculator_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_calculator_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\calculator_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_calculator_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\calculator_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_calculator_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\calculator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_calculator_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\calculator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_calculator_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxxhdpi\\calculator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_calculator_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\calculator_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_calculator.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_calculator_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\calculator_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_calculator_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\calculator_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_calculator_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xxhdpi\\calculator_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_calculator_round.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-anydpi-v26\\calculator_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_calculator_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-xhdpi\\calculator_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_calculator_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ssibal\\Kalculator\\app\\src\\main\\res\\mipmap-mdpi\\calculator_round.png"
+    }
+]
